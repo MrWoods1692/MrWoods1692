@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-我是一名热爱技术的开发者，专注于 **全栈开发/人工智能/AI编程**。喜欢探索新技术，解决复杂问题，并参与开源社区贡献。
+我是一名热爱技术的开发者，自幼热爱编程，专注于 **全栈开发/人工智能/AI编程**。喜欢探索新技术，解决复杂问题，并参与开源社区贡献。
 
 - 🔭 目前正在 **Study**
 - 🌱 正在学习 **Rust**
@@ -50,40 +50,7 @@
 
 ## 📊 GitHub
 
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrWoods1692&theme=radical&hide_border=true)
-
----
-
-## 🏆 Featured Projects
-
-### [云端图片储存](https://github.com/MrWoods1692/ydtc)
-[![Stars](https://img.shields.io/github/stars/MrWoods1692/ydtc?style=social)](https://github.com/MrWoods1692/ydtc/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrWoods1692/ydtc?style=social)](https://github.com/MrWoods1692/ydtc/network)
-
-&gt; 一个云端图片储存网站
-
-**Tech:** `PHP` `MySQL` `SQLite` `JWT` `JavaScript`
-
----
-
-### [cpp_online_ide](https://github.com/MrWoods1692/cpp_online_ide)
-[![Stars](https://img.shields.io/github/stars/MrWoods1692/cpp_online_ide?style=social)](https://github.com/MrWoods1692/cpp_online_ide/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrWoods1692/cpp_online_ide?style=social)](https://github.com/MrWoods1692/cpp_online_ide/network)
-
-&gt; C++ 在线 IDE
-
-**Tech:** `JavaScript` `C++` `C` `WebAssembly`
-
----
-
-### [Campux](https://github.com/MrWoods1692/Campux)
-[![Stars](https://img.shields.io/github/stars/MrWoods1692/Campux?style=social)](https://github.com/MrWoods1692/Campux/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrWoods1692/Campux?style=social)](https://github.com/MrWoods1692/Campux/network)
-
-&gt; 校园墙自动化 和 校内服务统一认证解决方案 ｜ 自助投稿、网页审核、自动发说说｜万能墙、表白墙 自动化、QQ 空间、QQ 机器人、发说说
-
-**Tech:** `Vue` `JavaScript` `HTML`
 
 ---
 
@@ -95,14 +62,3 @@
 - [网站推广策略全解析](https://blog.csdn.net/u11223344gvgvy/article/details/147025528?spm=1001.2014.3001.5501)
 
 ➡️ [查看更多...](https://blog.csdn.net/u11223344gvgvy?type=blog)
-
----
-
-## 🤝 Connect with Me
-
-- CSDN: [u11223344gvgvy](https://blog.csdn.net/u11223344gvgvy)
-- Email: [mail@mrcwoods.com](mailto:mail@mrcwoods.com)
-
----
-
-**Thanks for visiting!** ⭐️ From [MrWoods1692](https://github.com/MrWoods1692)
