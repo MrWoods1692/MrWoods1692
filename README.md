@@ -1,66 +1,48 @@
-# Hi there, I'm Mr.C.Woods 👋
+<div align="center">
+<h1>Woods Chen</h1>
+<p>
+  <b>Vibe Coding</b>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/MrWoods1692?label=Follow&style=social)](https://github.com/MrWoods1692)
+<p>
+  <a href="https://github.com/MrWoods1692"><img src="https://img.shields.io/badge/GitHub-2A0E1E?style=flat-square&logo=github&logoColor=FF9AD5" alt="GitHub" /></a>
+  <a href="mailtomail@mrcwoods.com"><img src="https://img.shields.io/badge/Email-2A0E1E?style=flat-square&logo=gmail&logoColor=FF9AD5" alt="Email" /></a>
+</p>
 
-## 🚀 About Me
+<p><a href="https://mrcwoods.com"><img src="data:image/svg+xml;charset=utf-8,%3Csvg%20t='1785847394772'%20class='icon'%20viewBox='0%200%201024%201024'%20version='1.1'%20xmlns='http://www.w3.org/2000/svg'%20p-id='18188'%20width='200'%20height='200'%3E%3Cpath%20d='M512%20512m-414%200a414%20414%200%201%200%20828%200%20414%20414%200%201%200-828%200Z'%20fill='%23F0C48A'%20p-id='18189'%3E%3C/path%3E%3Cpath%20d='M121%20533h794v391.2h-794z'%20fill='%23A4CFF2'%20p-id='18190'%3E%3C/path%3E%3Cpath%20d='M121%20533H512v391.2H121z'%20fill='%23D3E6F8'%20p-id='18191'%3E%3C/path%3E%3Cpath%20d='M852.2%20537.6h63v386.8h-63z'%20fill='%237BABF1'%20p-id='18192'%3E%3C/path%3E%3Cpath%20d='M449%20537.6H512v386.8h-63z'%20fill='%23A4CFF2'%20p-id='18193'%3E%3C/path%3E%3Cpath%20d='M740.4%20267.4l272.6%20265.6H512.2l-109.8-254z'%20fill='%23FD919E'%20p-id='18194'%3E%3C/path%3E%3Cpath%20d='M666.2%20260.4l271.4%20271h61.8L726.4%20260.4z'%20fill='%23E8677D'%20p-id='18195'%3E%3C/path%3E%3Cpath%20d='M316.6%20533H11.8l152.4-187.6%20152.4-187.6%20152.6%20187.6%20152.4%20187.6z'%20fill='%23FD919E'%20p-id='18196'%3E%3C/path%3E%3Cpath%20d='M275.8%20208.2l273.6%20323.2h59.2L316.2%20157.8z'%20fill='%23E8677D'%20p-id='18197'%3E%3C/path%3E%3Cpath%20d='M954.6%201001.2H70.2c-21.4%200-38.6-17.2-38.6-38.6%200-21.4%2017.2-38.6%2038.6-38.6h884.4c21.4%200%2038.6%2017.2%2038.6%2038.6%200%2021.4-17.2%2038.6-38.6%2038.6z'%20fill='%23FD919E'%20p-id='18198'%3E%3C/path%3E%3Cpath%20d='M956.8%201001.2h-105.4v-76.8h105.4c21.2%200%2038.4%2017.2%2038.4%2038.4s-17.2%2038.4-38.4%2038.4z'%20fill='%23E8677D'%20p-id='18199'%3E%3C/path%3E%3Cpath%20d='M249.6%20456c-26.4%200-47.6-21.4-47.6-47.6%200-26.4%2021.4-47.6%2047.6-47.6%207.6%200%2014.8%201.8%2021%205%2013-17.2%2033.6-28.4%2057-28.4%2035.4%200%2064.8%2026%2070.2%2059.8%201.6-0.4%203.4-0.4%205.2-0.4%2016.4%200%2029.8%2013.4%2029.8%2029.8s-13.4%2029.8-29.8%2029.8h-153.4zM635%20636.8h167.6v167.6h-167.6z'%20fill='%23FFFFFF'%20p-id='18200'%3E%3C/path%3E%3Cpath%20d='M316.6%20682c-47%200-85.2%2038.2-85.2%2085.2v157h170.2v-157c0.2-47-38-85.2-85-85.2z'%20fill='%237BABF1'%20p-id='18201'%3E%3C/path%3E%3Cpath%20d='M631.4%2084c-3%200-6-1.2-8.2-3.4-29.6-29.6-69.2-46-111.2-46s-81.4%2016.4-111.2%2046c-4.6%204.6-12%204.6-16.6%200-4.6-4.6-4.6-12%200-16.6C418.4%2029.8%20463.8%2011%20512%2011s93.6%2018.8%20127.8%2053c4.6%204.6%204.6%2012%200%2016.6-2.4%202.2-5.4%203.4-8.4%203.4z'%20fill='%234C4372'%20p-id='18202'%3E%3C/path%3E%3Cpath%20d='M593.6%20121.8c-3%200-6-1.2-8.2-3.4-40.4-40.4-106.2-40.4-146.6%200-4.6%204.6-12%204.6-16.6%200-4.6-4.6-4.6-12%200-16.6%2049.6-49.6%20130.2-49.6%20179.8%200%204.6%204.6%204.6%2012%200%2016.6-2.4%202.2-5.4%203.4-8.4%203.4z'%20fill='%234C4372'%20p-id='18203'%3E%3C/path%3E%3Cpath%20d='M554%20161.4c-3%200-6-1.2-8.2-3.4-9-9-21-14-33.8-14-12.8%200-24.8%205-33.8%2014-4.6%204.6-12%204.6-16.6%200-4.6-4.6-4.6-12%200-16.6%2013.4-13.4%2031.4-20.8%2050.4-20.8s36.8%207.4%2050.4%2020.8c4.6%204.6%204.6%2012%200%2016.6-2.4%202.2-5.4%203.4-8.4%203.4z'%20fill='%234C4372'%20p-id='18204'%3E%3C/path%3E%3Cpath%20d='M512%20191.6m-24.4%200a24.4%2024.4%200%201%200%2048.8%200%2024.4%2024.4%200%201%200-48.8%200Z'%20fill='%234C4372'%20p-id='18205'%3E%3C/path%3E%3Cpath%20d='M403.2%20467.8h-153.4c-32.8%200-59.4-26.6-59.4-59.4s26.6-59.4%2059.4-59.4c6%200%2011.8%200.8%2017.6%202.6%2015.6-16.8%2037.2-26.2%2060.4-26.2%2037.4%200%2069.4%2024.6%2079.6%2059.6%2021%202%2037.4%2019.8%2037.4%2041.2-0.2%2023-18.8%2041.6-41.6%2041.6z%20m-153.6-95.2c-19.8%200-36%2016.2-36%2036s16.2%2036%2036%2036h153.4c10%200%2018-8%2018-18%200-11-9.8-19.8-21.2-17.6-3.2%200.6-6.2-0.2-8.8-2-2.6-1.8-4.2-4.6-4.8-7.8-4.6-29-29.4-50-58.6-50-18.8%200-36.2%208.6-47.6%2023.8-3.4%204.6-9.6%206-14.6%203.4-4.8-2.6-10.2-3.8-15.8-3.8zM512.2%20935.8H121c-6.4%200-11.8-5.2-11.8-11.8V533c0-6.4%205.2-11.8%2011.8-11.8h391.2c6.4%200%2011.8%205.2%2011.8%2011.8v391.2c0%206.4-5.2%2011.6-11.8%2011.6zM132.8%20912.4h367.6V544.8H132.8v367.6z'%20fill='%234C4372'%20p-id='18206'%3E%3C/path%3E%3Cpath%20d='M621.6%20544.8H11.8c-4.6%200-8.6-2.6-10.6-6.6-2-4-1.4-9%201.4-12.4L307.6%20150.4c2.2-2.8%205.6-4.4%209.2-4.4%203.6%200%206.8%201.6%209.2%204.4l305%20375.2c2.8%203.6%203.4%208.4%201.4%2012.4-2.2%204.2-6.2%206.8-10.8%206.8zM36.4%20521.2h560.6L316.6%20176.4%2036.4%20521.2zM954.6%201013H70.2c-27.8%200-50.4-22.6-50.4-50.4%200-27.8%2022.6-50.4%2050.4-50.4h884.4c27.8%200%2050.4%2022.6%2050.4%2050.4%200%2027.8-22.6%2050.4-50.4%2050.4zM70.2%20935.8c-14.8%200-26.8%2012-26.8%2026.8s12%2026.8%2026.8%2026.8h884.4c14.8%200%2026.8-12%2026.8-26.8s-12-26.8-26.8-26.8H70.2z'%20fill='%234C4372'%20p-id='18207'%3E%3C/path%3E%3Cpath%20d='M914.4%20935.8H511.4c-6.4%200-11.8-5.2-11.8-11.8s5.2-11.8%2011.8-11.8h391.4V544.8H621.8c-6.4%200-11.8-5.2-11.8-11.8s5.2-11.8%2011.8-11.8h292.6c6.4%200%2011.8%205.2%2011.8%2011.8v391.2c0%206.4-5.2%2011.6-11.8%2011.6z'%20fill='%234C4372'%20p-id='18208'%3E%3C/path%3E%3Cpath%20d='M1012.2%20544.8h-148c-6.4%200-11.8-5.2-11.8-11.8s5.2-11.8%2011.8-11.8h119.4L736.8%20280H405.4c-6.4%200-11.8-5.2-11.8-11.8%200-6.4%205.2-11.8%2011.8-11.8h336c3%200%206%201.2%208.2%203.4l270.8%20264.8c3.4%203.4%204.4%208.4%202.6%2012.8-1.6%204.4-6%207.4-10.8%207.4zM401.8%20935.8h-170.2c-6.4%200-11.8-5.2-11.8-11.8v-157c0-53.4%2043.4-96.8%2096.8-96.8s96.8%2043.4%2096.8%2096.8V924c0.2%206.6-5.2%2011.8-11.6%2011.8z%20m-158.6-23.4H390v-145.2c0-40.4-33-73.4-73.4-73.4s-73.4%2033-73.4%2073.4v145.2z'%20fill='%234C4372'%20p-id='18209'%3E%3C/path%3E%3Cpath%20d='M773%20640.2h23.2v158.4h-23.2zM689%20640.2h23.2v158.4h-23.2z'%20fill='%23D3E6F8'%20p-id='18210'%3E%3C/path%3E%3Cpath%20d='M802.6%20816.2h-167.6c-6.4%200-11.8-5.2-11.8-11.8v-167.6c0-6.4%205.2-11.8%2011.8-11.8h167.6c6.4%200%2011.8%205.2%2011.8%2011.8v167.6c0%206.4-5.2%2011.8-11.8%2011.8z%20m-155.8-23.6h144.2v-144.2h-144.2v144.2z'%20fill='%234C4372'%20p-id='18211'%3E%3C/path%3E%3Cpath%20d='M718.8%20810.8c-6.4%200-11.8-5.2-11.8-11.8v-162.4c0-6.4%205.2-11.8%2011.8-11.8s11.8%205.2%2011.8%2011.8v162.4c0%206.6-5.2%2011.8-11.8%2011.8z'%20fill='%234C4372'%20p-id='18212'%3E%3C/path%3E%3Cpath%20d='M800%20729.6h-162.4c-6.4%200-11.8-5.2-11.8-11.8%200-6.4%205.2-11.8%2011.8-11.8H800c6.4%200%2011.8%205.2%2011.8%2011.8%200%206.6-5.2%2011.8-11.8%2011.8z'%20fill='%234C4372'%20p-id='18213'%3E%3C/path%3E%3C/svg%3E" alt="Home" width="200" height="200"></a>
+</p>
 
-我是一名热爱技术的开发者，自幼热爱编程，专注于 **Vibe Coding**。喜欢探索新技术，解决复杂问题，并参与开源社区贡献。
-
-- 🔭 目前正在 **Study**
-- 🌱 正在学习 **Rust**
-- 👯 希望与他人合作 **Web**
-- 💬 欢迎向我询问 **C++**
-- 📫 联系方式: **mail@mrcwoods.com**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-### Frontend
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-### Backend & Runtime
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub
+## About Me
+- My name is Woods Chen.
+- I am a developer passionate about technology, who has loved programming since childhood and focuses on **Vibe Coding**.
+- I enjoy exploring new technologies, solving complex problems, and contributing to the open-source community.
+- 🌱I am currently still studying and learning 
+- 💬I sincerely hope to engage in discussion and exchange with all developers.
+- My email address：[mail@mrcwoods.com](mailtomail@mrcwoods.com)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrWoods1692&theme=radical&hide_border=true)
+## My Stack
 
----
+<div align="center">
 
-## 📝 Latest Blog Posts
+<img src="https://skillicons.dev/icons?i=androidstudio,c,bun,cs,cpp,cloudflare,cmake,css,debian,discord,docker,dotnet,fastapi,kotlin,git,github,gmail,go,gradle,gtk,html,htmx,instagram,java,js,linux,lua,mysql,nextjs,nginx,nodejs,npm,ps,php,postgres,pnpm,py,qt,react,redis,rust,sass,sqlite,tailwind,tauri,ts,vercel,vim,visualstudio,vite,vue,ubuntu,nuxtjs,vscode&perline=9" alt="tech stack" />
 
-- [2025 CCF CSP-J 第二轮 解析](https://blog.csdn.net/u11223344gvgvy/article/details/154258964)
-- [Linux发行版选择](https://blog.csdn.net/u11223344gvgvy/article/details/154572639?spm=1001.2014.3001.5501)
-- [服务器概念、组成和架构详解](https://blog.csdn.net/u11223344gvgvy/article/details/147025780?spm=1001.2014.3001.5501)
-- [网站推广策略全解析](https://blog.csdn.net/u11223344gvgvy/article/details/147025528?spm=1001.2014.3001.5501)
+</div>
 
-➡️ [查看更多...](https://blog.csdn.net/u11223344gvgvy?type=blog)
+## My GitHub
 
-🐧[LINUX DO](https://linux.do/u/mr.c.woods)
+<div align="center">
+<img src="https://img.shields.io/github/followers/MrWoods1692?style=flat-square&color=FF9AD5&labelColor=2A0E1E&logo=github&logoColor=FF9AD5" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/Profile-MrWoods1692-FF9AD5?style=flat-square&labelColor=2A0E1E&logo=github&logoColor=FF9AD5" alt="GitHub profile" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MrWoods1692.MrWoods1692&left_color=2A0E1E&right_color=FF9AD5" alt="visitor count" />
+</div>
+
+<br/>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:FF4FA3,50:FF9AD5,100:FFF0F7" alt="footer" />
+
+</div>
